@@ -1,0 +1,22 @@
+[Libraries]
+/Library/
+/Temp/
+/Logs/
+/UserSettings/
+
+[Builds]
+/Builds/
+/*.apk
+/*.aab
+/*.exe
+
+[Generated Files]
+/*.csproj
+/*.sln
+/*.pidb
+/*.unityproj
+/.vs/
+
+[OS-Specific]
+.DS_Store
+Thumbs.db
